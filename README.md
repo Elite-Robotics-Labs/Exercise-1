@@ -16,3 +16,11 @@ A Personal Expense Tracker is a simple Python project that allows users to recor
 - File handling (read/write).
 - Simple data structures (list, dictionary).
 - Optional: datetime and csv libraries.
+
+**Instructions:**
+- Fork this Repo
+- Git Clone the repo locally using `git clone ...`
+- Open your project in your IDE
+- Complete the project requirements
+- Add testing notes to your README File
+- Submit a Pull-Request to the instructor
